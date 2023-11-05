@@ -4,7 +4,7 @@
 
   <img src="2.png" width="700" height="450">
 </p>
-# Fonctionnalités implémentées
+
 ## Tourelles :
 - GunTurret : tourelle correspondant à une tourelle classique, avec les attributs communs à toutes les tourelles (vitesse, portée, dégâts, précision, prix d’achat, coût d’amélioration).
 - DoubleGunTurret : tourelle munie de deux canons qui envoie deux balles sur les ennemis.
