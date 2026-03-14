@@ -1,5 +1,7 @@
 # Human Defense
 
+> **Timeline:** Developed between March 2020 and June 2020.
+
 <p align="center">
   <img src="docs/1.png" width="80%" alt="Main Menu">
 </p>
